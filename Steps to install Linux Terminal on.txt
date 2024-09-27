@@ -1,0 +1,45 @@
+Steps to install Linux Terminal on Windows
+
+Control panel
+   |
+programs
+   |
+Programs and features
+   |
+Turn off windows feature on or off
+   |
+Windows Subsystem for Linux
+   |
+Virtual Machine Platform
+   |
+restart
+   |
+cmd
+   |
+bash 
+   |
+Microsoft store
+   |
+Linux > ununtu
+   |
+install
+   |
+open ubuntu
+   |
+follow link
+   |
+download the latest package step 4
+   |
+install package
+   |
+open ubuntu
+   |
+username "anything"
+   |
+add password
+   |
+ls -al (lists all the folders and files in the directories)
+   |
+pwd (shows current working directory)
+   |
+ls /mnt/ (to check the mounted drivers)
